@@ -1,0 +1,4 @@
+#Vue Create app
+vue create vue-weather
+npm install
+npm run serve
